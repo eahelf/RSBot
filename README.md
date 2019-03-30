@@ -1,0 +1,2 @@
+# RSBot
+this bot hot
